@@ -1,0 +1,57 @@
+body {
+  background: #d2d2c1 url('imagens/fundo.png');
+  font: 16px Arial, Helvetica, sans-serif;
+}
+
+.foto {
+  width: 50px;
+}
+
+.menu {
+  color: rgb(58, 58, 88);
+  background: #c5c5b2;
+  padding: 20px;
+}
+
+a {
+  color: #4b566a;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.texto {
+  background: white;
+  width: 900px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  padding-top: 1%;
+  padding-left: 2%;
+  padding-right: 7%;
+}
+
+h3 {
+  color: rgb(92, 93, 17);
+  text-align: left 2px;
+  padding-top: 1%;
+  padding-left: 2%;
+}
+h4 {
+  position: center;
+  text-align: center;
+}
+
+#rodape {
+  bottom: 0;
+  color: rgb(92, 93, 17);
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+
+.foto2 {
+  border-width: 1ch;
+  border-style: solid;
+  border-color: rgb(92, 93, 17);
+}
